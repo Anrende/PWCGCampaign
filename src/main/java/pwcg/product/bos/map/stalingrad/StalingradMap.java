@@ -65,11 +65,19 @@ public class StalingradMap extends PWCGMap
 
         this.frontDatesForMap.addFrontDate("19420301");
         this.frontDatesForMap.addFrontDate("19420801");
+        this.frontDatesForMap.addFrontDate("19420812");
+        this.frontDatesForMap.addFrontDate("19420823");
         this.frontDatesForMap.addFrontDate("19420906");
+        this.frontDatesForMap.addFrontDate("19420926");
         this.frontDatesForMap.addFrontDate("19421011");
-        this.frontDatesForMap.addFrontDate("19421123");
+        this.frontDatesForMap.addFrontDate("19421110");
+        this.frontDatesForMap.addFrontDate("19421120");
+        this.frontDatesForMap.addFrontDate("19421124");
+        this.frontDatesForMap.addFrontDate("19421212");
         this.frontDatesForMap.addFrontDate("19421223");
-        this.frontDatesForMap.addFrontDate("19430120");
+        this.frontDatesForMap.addFrontDate("19430101");
+        this.frontDatesForMap.addFrontDate("19430112");
+        this.frontDatesForMap.addFrontDate("19430119");
     }
 
     @Override
