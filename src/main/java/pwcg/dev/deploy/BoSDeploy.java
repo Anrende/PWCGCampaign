@@ -66,24 +66,41 @@ public class BoSDeploy extends DeployBase
 
 		// Moscow dates
         directoriesToCopy.put("19411001", null);
-        directoriesToCopy.put("19411005", null);
-        directoriesToCopy.put("19411011", null);
-        directoriesToCopy.put("19411016", null);
+        directoriesToCopy.put("19411010", null);
+        directoriesToCopy.put("19411015", null);
         directoriesToCopy.put("19411020", null);
+        directoriesToCopy.put("19411101", null);
         directoriesToCopy.put("19411110", null);
         directoriesToCopy.put("19411120", null);
+        directoriesToCopy.put("19411205", null);
         directoriesToCopy.put("19411215", null);
-        directoriesToCopy.put("19420110", null);
-        
+        directoriesToCopy.put("19411225", null);
+        directoriesToCopy.put("19420105", null);
+        directoriesToCopy.put("19420115", null);
+        directoriesToCopy.put("19420125", null);
+        directoriesToCopy.put("19420205", null);
+        directoriesToCopy.put("19420305", null);
+        directoriesToCopy.put("19420415", null);
+		
+		
 		// Stalingrad dates
         directoriesToCopy.put("19420301", null);
         directoriesToCopy.put("19420801", null);
+        directoriesToCopy.put("19420812", null);
+        directoriesToCopy.put("19420823", null);		
         directoriesToCopy.put("19420906", null);
+        directoriesToCopy.put("19420926", null);
         directoriesToCopy.put("19421011", null);
-        directoriesToCopy.put("19421123", null);
+        directoriesToCopy.put("19421110", null);
+        directoriesToCopy.put("19421120", null);
+		directoriesToCopy.put("19421124", null);
+		directoriesToCopy.put("19421212", null);
         directoriesToCopy.put("19421223", null);
-        directoriesToCopy.put("19430120", null);
-        
+		directoriesToCopy.put("19430101", null);
+		directoriesToCopy.put("19430112", null);
+		directoriesToCopy.put("19430119", null);
+
+		
 		// Kuban dates
         directoriesToCopy.put("19420601", null);
         directoriesToCopy.put("19420624", null);
