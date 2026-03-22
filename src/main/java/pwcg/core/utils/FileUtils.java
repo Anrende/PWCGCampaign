@@ -42,13 +42,13 @@ public class FileUtils
 
     public static void deleteFilesInDirectory(String directoryName) throws PWCGException
     {
-        //System.out.println("deleteFilesInDirectory called: " + directoryName);
+        System.out.println("deleteFilesInDirectory called: " + directoryName);
  
-        //File directory = new File(directoryName);
-        //if (!directory.exists())
-        //{
-            //directory.mkdir();
-        //}
+        File directory = new File(directoryName);
+        if (!directory.exists())
+        {
+            directory.mkdir();
+        }
     }
 
     public static boolean findInDirectory(String directoryName, String lookForFileName) throws PWCGException
