@@ -314,7 +314,7 @@ public class FrontLinesEditorMapGUI extends MapGUI implements ActionListener
             {				
                 CampaignGuiContextManager.getInstance().popFromContextStack();
             }	
-            else if (action.contains("Write"))
+            else if (action.contains("Save Edits"))
             {               
                 writeData();
             }   
