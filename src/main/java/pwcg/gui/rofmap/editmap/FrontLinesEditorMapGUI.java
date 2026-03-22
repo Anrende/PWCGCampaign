@@ -129,7 +129,7 @@ public class FrontLinesEditorMapGUI extends MapGUI implements ActionListener
         JButton cancel = PWCGButtonFactory.makeTranslucentMenuButton("Cancel", "Cancel", "Cancel edits", this);
         buttonPanel.add(cancel);
         
-        JButton write = PWCGButtonFactory.makeTranslucentMenuButton("Save Edits", "Write", "Save edits", this);
+        JButton write = PWCGButtonFactory.makeTranslucentMenuButton("Save Edits", "Save Edits", "Save edits", this);
         buttonPanel.add(write);
         
         JButton refresh = PWCGButtonFactory.makeTranslucentMenuButton("Refresh", "Refresh", "Refresh map", this);
