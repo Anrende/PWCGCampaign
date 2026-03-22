@@ -64,17 +64,24 @@ public class MoscowMap extends PWCGMap
     @Override
     protected void configureTransitionDates() throws PWCGException
     {
-        this.frontDatesForMap.addMapDateRange(DateUtils.getDateYYYYMMDD("19411001"), DateUtils.getDateYYYYMMDD("19420301"));
+        this.frontDatesForMap.addMapDateRange(DateUtils.getDateYYYYMMDD("19411001"), DateUtils.getDateYYYYMMDD("19420505"));
 
         this.frontDatesForMap.addFrontDate("19411001");
-        this.frontDatesForMap.addFrontDate("19411005");
-        this.frontDatesForMap.addFrontDate("19411011");
-        this.frontDatesForMap.addFrontDate("19411016");
+        this.frontDatesForMap.addFrontDate("19411010");
+        this.frontDatesForMap.addFrontDate("19411015");
         this.frontDatesForMap.addFrontDate("19411020");
+        this.frontDatesForMap.addFrontDate("19411101");
         this.frontDatesForMap.addFrontDate("19411110");
-        this.frontDatesForMap.addFrontDate("19411120");
+        this.frontDatesForMap.addFrontDate("19411205");
         this.frontDatesForMap.addFrontDate("19411215");
-        this.frontDatesForMap.addFrontDate("19420110");
+        this.frontDatesForMap.addFrontDate("19411225");
+        this.frontDatesForMap.addFrontDate("19420105");
+        this.frontDatesForMap.addFrontDate("19420115");
+        this.frontDatesForMap.addFrontDate("19420125");
+        this.frontDatesForMap.addFrontDate("19420205");
+        this.frontDatesForMap.addFrontDate("19420305");
+        this.frontDatesForMap.addFrontDate("19420415");
+        
     }
 
     @Override
