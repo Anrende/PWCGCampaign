@@ -21,15 +21,22 @@ public class MoscowMap extends PWCGMap
     static
     { 
         missionSpacingMyDate = new TreeMap<>(); 
-        missionSpacingMyDate.put("19411001", 2); 
-        missionSpacingMyDate.put("19411003", 1); 
-        missionSpacingMyDate.put("19411012", 2); 
-        missionSpacingMyDate.put("19411016", 1); 
-        missionSpacingMyDate.put("19411024", 2); 
-        missionSpacingMyDate.put("19421205", 2); 
-        missionSpacingMyDate.put("19420101", 3); 
-        missionSpacingMyDate.put("19420110", 4); 
-        missionSpacingMyDate.put("19420201", 5); 
+        missionSpacingMyDate.put("19411001", 1); 
+        missionSpacingMyDate.put("19411010", 1); 
+        missionSpacingMyDate.put("19411015", 1); 
+        missionSpacingMyDate.put("19411020", 1); 
+        missionSpacingMyDate.put("19411101", 1); 
+        missionSpacingMyDate.put("19411110", 2); 
+        missionSpacingMyDate.put("19411120", 3); 
+        missionSpacingMyDate.put("19411205", 2); 
+        missionSpacingMyDate.put("19411215", 3); 
+        missionSpacingMyDate.put("19411225", 3);
+        missionSpacingMyDate.put("19420105", 2); 
+        missionSpacingMyDate.put("19420115", 2);
+        missionSpacingMyDate.put("19420125", 1);
+        missionSpacingMyDate.put("19420205", 3);
+        missionSpacingMyDate.put("19420305", 3);
+        missionSpacingMyDate.put("19420415", 3);
     } 
 
     public MoscowMap()
