@@ -43,7 +43,7 @@ public class FileUtils
     public static void deleteFilesInDirectory(String directoryName) throws PWCGException
     {
         //System.out.println("deleteFilesInDirectory called: " + directoryName);
-
+ 
         //File directory = new File(directoryName);
         //if (!directory.exists())
         //{
